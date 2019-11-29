@@ -1,0 +1,5 @@
+data:
+  env: config-eureka-product
+  user:
+    username: eureka-product-name
+    password: 99996666
